@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guðmundur Arnalds</title>
+    <link>https://gudmundurari.github.io/gummi.github.io/</link>
+    <description>Recent content on Guðmundur Arnalds</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Guðmundur Arnalds.</copyright>
+    <lastBuildDate>Sat, 11 Feb 2023 03:57:42 +0000</lastBuildDate>
+    
+	<atom:link href="https://gudmundurari.github.io/gummi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Works</title>
+      <link>https://gudmundurari.github.io/gummi.github.io/works/</link>
+      <pubDate>Sat, 11 Feb 2023 17:59:56 +0000</pubDate>
+      
+      <guid>https://gudmundurari.github.io/gummi.github.io/works/</guid>
+      <description>Example of works:
+  Production
+  Mastering
+  Other
+  </description>
+    </item>
+    
+    <item>
+      <title>Blog2</title>
+      <link>https://gudmundurari.github.io/gummi.github.io/blog/blog2/</link>
+      <pubDate>Sat, 11 Feb 2023 12:34:59 +0000</pubDate>
+      
+      <guid>https://gudmundurari.github.io/gummi.github.io/blog/blog2/</guid>
+      <description>Blog númer 2</description>
+    </item>
+    
+    <item>
+      <title>Bands</title>
+      <link>https://gudmundurari.github.io/gummi.github.io/sites/bands/</link>
+      <pubDate>Sat, 11 Feb 2023 11:50:35 +0000</pubDate>
+      
+      <guid>https://gudmundurari.github.io/gummi.github.io/sites/bands/</guid>
+      <description>My bands at the moment include
+  Final Boss Type Zero
+  Glupsk
+  Pellegrina
+  Soddill
+  Atiseq
+  Angelopolis
+  </description>
+    </item>
+    
+    <item>
+      <title>230211</title>
+      <link>https://gudmundurari.github.io/gummi.github.io/blog/230211/</link>
+      <pubDate>Sat, 11 Feb 2023 11:42:03 +0000</pubDate>
+      
+      <guid>https://gudmundurari.github.io/gummi.github.io/blog/230211/</guid>
+      <description>Hérna kemur fyrsta blog færlsa, þetta er aðallega test til þess að skoða hvernig cross referencing virkar á síðunni.</description>
+    </item>
+    
+    <item>
+      <title>My work</title>
+      <link>https://gudmundurari.github.io/gummi.github.io/music/</link>
+      <pubDate>Sat, 11 Feb 2023 11:30:15 +0000</pubDate>
+      
+      <guid>https://gudmundurari.github.io/gummi.github.io/music/</guid>
+      <description>Here are links to some of my work:
+Solo projects
+Bands
+Agalma
+Spectral Assault Records
+Mengi</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://gudmundurari.github.io/gummi.github.io/about/</link>
+      <pubDate>Sat, 11 Feb 2023 03:56:37 +0000</pubDate>
+      
+      <guid>https://gudmundurari.github.io/gummi.github.io/about/</guid>
+      <description>Gáum hvað kemur út úr þessu</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sites on Guðmundur Arnalds</title>
+    <link>https://gudmundurari.github.io/gummi.github.io/sites/</link>
+    <description>Recent content in Sites on Guðmundur Arnalds</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Guðmundur Arnalds.</copyright>
+    <lastBuildDate>Sat, 11 Feb 2023 11:50:35 +0000</lastBuildDate>
+    
+	<atom:link href="https://gudmundurari.github.io/gummi.github.io/sites/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bands</title>
+      <link>https://gudmundurari.github.io/gummi.github.io/sites/bands/</link>
+      <pubDate>Sat, 11 Feb 2023 11:50:35 +0000</pubDate>
+      
+      <guid>https://gudmundurari.github.io/gummi.github.io/sites/bands/</guid>
+      <description>My bands at the moment include
+  Final Boss Type Zero
+  Glupsk
+  Pellegrina
+  Soddill
+  Atiseq
+  Angelopolis
+  </description>
+    </item>
+    
+  </channel>
+</rss>
